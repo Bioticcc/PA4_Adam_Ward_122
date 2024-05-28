@@ -1,10 +1,8 @@
 #include "Header.h"
-using namespace std;
 int main() {
-
-
-
-	return 0;
+	DietPlan plan(500, "planA", "2/12/2005");
+	cout << "test: " << plan.goalCal << "\ntest: " << plan.planDate << "\ntest: " << plan.planName;
+	return 0;	
 
 
 }
