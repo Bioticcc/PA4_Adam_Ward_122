@@ -17,6 +17,7 @@ Description: PA4, a athletic thing.
 #include <map>     
 #include <algorithm>   
 #include <stdexcept>  
+#include <fstream>
 
 using std::cout;
 using std::cin; 
@@ -50,6 +51,34 @@ public:
 	//the deconstructor
 	~DietPlan() {
 
+	}
+
+	//member functions to edit values within function
+	int editGoal() {
+		int num;
+		cout << "Enter new calorie goal: ";
+		cin >> num;
+		goalCal = num;
+		cout << "\n--new-plan-->: \nname: " << planName << "\ncalorie goal: " << goalCal << "\ndate: " << planDate << "\n";
+		return goalCal;
+	}
+
+	string editName() {
+		string str;
+		cout << "Enter new plan name: ";
+		cin >> str;
+		planName = str;
+		cout << "\n--new-plan-->: \nname: " << planName << "\ncalorie goal: " << goalCal << "\ndate: " << planDate << "\n";
+		return planName;
+	}
+
+	string editDate() {
+		string str;
+		cout << "Enter new plan date: ";
+		cin >> str;
+		planDate = str;
+		cout << "\n--new-plan-->: \nname: " << planName << "\ncalorie goal: " << goalCal << "\ndate: " << planDate << "\n";
+		return planDate;
 	}
 
 	//getter functions! yahooie
@@ -107,6 +136,36 @@ public:
 
 	}
 
+
+	//member functions to edit values within function
+	int editGoal() {
+		int num;
+		cout << "Enter new calorie goal: ";
+		cin >> num;
+		goalSteps = num;
+		cout << "\n--new-plan-->: \nname: " << planName << "\ncalorie goal: " << goalSteps << "\ndate: " << planDate << "\n";
+		return goalSteps;
+	}
+
+	string editName() {
+		string str;
+		cout << "Enter new plan name: ";
+		cin >> str;
+		planName = str;
+		cout << "\n--new-plan-->: \nname: " << planName << "\ncalorie goal: " << goalSteps << "\ndate: " << planDate << "\n";
+		return planName;
+	}
+
+	string editDate() {
+		string str;
+		cout << "Enter new plan date: ";
+		cin >> str;
+		planDate = str;
+		cout << "\n--new-plan-->: \nname: " << planName << "\ncalorie goal: " << goalSteps << "\ndate: " << planDate << "\n";
+		return planDate;
+	}
+
+
 	//getters
 	const int getGoalSteps() const {
 		return goalSteps;
@@ -132,8 +191,17 @@ public:
 	
 };
 
+//finally, 200 lines in, we get to function prototypes (i THINK we still need these in C++??? idk tho tbh)
+int displayPlanD(DietPlan plan);
+int displayPlanE(ExcersisePlan plan);
+
+int readFileD(std::fstream& fileDest, string fileName, DietPlan arr[7]);
+int readFileE(std::fstream& fileDest, string fileName, ExcersisePlan arr[7]);
+
+
 
 
 
 //GOES AT THE END DONT FUCKING MOVE ME!
 #endif 
+
