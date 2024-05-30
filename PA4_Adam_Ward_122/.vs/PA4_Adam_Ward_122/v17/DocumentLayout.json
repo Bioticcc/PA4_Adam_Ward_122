@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAMAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-27T23:37:50.126Z",
               "IsPinned": true,
@@ -49,18 +49,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-27T23:37:59.017Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Header.h",
               "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\Header.h",
               "RelativeDocumentMoniker": "Header.h",
               "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\Header.h",
               "RelativeToolTip": "Header.h",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAuwE8AAAAQAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAwIMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-27T23:38:07.308Z",
               "EditorCaption": ""

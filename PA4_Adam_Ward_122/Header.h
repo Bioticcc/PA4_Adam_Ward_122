@@ -81,18 +81,55 @@ public:
 	}
 };
 
+
+
+
 class ExcersisePlan {
-public:
 	int goalSteps;
 	string planName;
 	string planDate;
 
-	ExcersisePlan(int x, string y, string z) {
+public:
+	//constructor
+	ExcersisePlan(int x, const string &y, const string &z) {
 		goalSteps = x;
 		planName = y;
 		planDate = z;
 	}
+	//copy constructor
+	ExcersisePlan(const ExcersisePlan& t) {
+		goalSteps = t.goalSteps;
+		planName = t.planName;
+		planDate = t.planDate;
+	}
+	//deconstructor
+	~ExcersisePlan() {
 
+	}
+
+	//getters
+	const int getGoalSteps() const {
+		return goalSteps;
+	}
+	const string getPlanName() const {
+		return planName;
+	}
+	const string getPlanDate() const {
+		return planDate;
+	}
+
+	//setters
+	void setGoalSteps(const int num) {
+		goalSteps = num;
+	}
+	void setPlanName(const string str) {
+		planName = str;
+	}
+	void setPlanDate(const string str) {
+		planDate = str;
+	}
+
+	
 };
 
 
