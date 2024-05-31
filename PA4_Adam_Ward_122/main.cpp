@@ -1,20 +1,22 @@
 #include "Header.h"
+#include "DietPlan.h"
+#include "ExersisePlan.h"
+
+
+
 int main() {
 	//declaring file names
 	std::fstream Diet;
 	std::fstream Excersise;
 
-	//opening files
-	readFile(Diet, "DietPlan.txt");
-	readFile(Excersise, "ExcersisePlan.txt");
+	//declarin me arrays
+	DietPlan arrD[7];
+	ExcersisePlan arrE[7];
 
-	//initializing dietplan as a plan! yahoo
-	DietPlan planD(500, "planA", "2/12/2005");
-	ExcersisePlan planE(600, "planeB", "2/15/2023");
-	
-	//dislaying files
-	displayPlanD(planD);
-	displayPlanE(planE);
+	//opening files
+	readFileD(Diet, "DietPlan.txt", arrD);
+	readFileE(Excersise, "ExcersisePlan.txt", arrE);
+
 
 
 	return 0;

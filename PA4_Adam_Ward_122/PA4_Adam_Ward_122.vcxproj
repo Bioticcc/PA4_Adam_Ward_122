@@ -133,6 +133,8 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DietPlan.h" />
+    <ClInclude Include="ExersisePlan.h" />
     <ClInclude Include="Header.h" />
   </ItemGroup>
   <ItemGroup>

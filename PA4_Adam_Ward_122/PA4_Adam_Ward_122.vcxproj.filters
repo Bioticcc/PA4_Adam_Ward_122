@@ -32,6 +32,12 @@
     <ClInclude Include="Header.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DietPlan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExersisePlan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="DietPlan.txt">
