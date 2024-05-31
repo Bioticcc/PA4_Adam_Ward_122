@@ -46,5 +46,11 @@
     <Text Include="ExcersisePlan.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="DietPlanOut.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="ExcersisePlanOut.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

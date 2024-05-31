@@ -90,7 +90,7 @@ public:
 
 int displayPlanE(ExcersisePlan plan);
 int readFileE(std::fstream& fileDest, string fileName, ExcersisePlan arr[7]);
-
+int writeFileE(std::fstream& fileDest, string fileName, ExcersisePlan arr[7]);
 
 
 #endif

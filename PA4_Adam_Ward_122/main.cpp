@@ -9,14 +9,19 @@ int main() {
 	std::fstream Diet;
 	std::fstream Excersise;
 
+	std::fstream DietO;
+	std::fstream ExcersiseO;
+
 	//declarin me arrays
 	DietPlan arrD[7];
 	ExcersisePlan arrE[7];
 
-	//opening files
-	readFileD(Diet, "DietPlan.txt", arrD);
-	readFileE(Excersise, "ExcersisePlan.txt", arrE);
 
+	readFileD(Diet, "DietPlan.txt", arrD);
+	writeFileD(DietO, "DietPlanOut.txt", arrD);
+	
+	readFileE(Excersise, "ExcersisePlan.txt", arrE);
+	writeFileE(ExcersiseO, "ExcersisePlanOut.txt", arrE);
 
 
 	return 0;

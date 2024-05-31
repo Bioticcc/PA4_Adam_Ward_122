@@ -8,7 +8,7 @@ int displayPlanD(DietPlan plan) {
 }
 
 using std::getline;
-//overload funciton thing
+//overload funciton thing >>
 std::istream& operator>>(std::istream& inFile, DietPlan& plan) {
 	string goalCalStr;
 	string blank;
@@ -23,8 +23,6 @@ std::istream& operator>>(std::istream& inFile, DietPlan& plan) {
 	getline(inFile, blank);
 	return inFile;
 }
-
-
 
 
 
@@ -45,8 +43,25 @@ int readFileD(std::fstream& fileDest, string fileName, DietPlan arr[7]) {
 	}
 	
 	//printings arrays to make sure!
-	
+	return 1;
+}
+
+/*
+//overlord function <<
+std::ostream& operator<<(std::ostream& outFile, DietPlan& plan) {
+	return outFile;
+}*/
 
 
+int writeFileD(std::fstream& fileDest, string fileName, DietPlan arr[7]) {
+	//seting rq
+	fileDest.open(fileName, std::ios::out);
+	//testing
+	for (int i = 0; i < 7; i++) {
+		fileDest << arr[i].getPlanName() << "\n";
+		fileDest << arr[i].getGoalCal() << "\n";
+		fileDest << arr[i].getPlanDate() << "\n";
+		fileDest << "\n";
+	}
 	return 1;
 }

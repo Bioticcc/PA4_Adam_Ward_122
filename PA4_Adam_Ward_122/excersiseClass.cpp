@@ -38,8 +38,20 @@ int readFileE(std::fstream& fileDest, string fileName, ExcersisePlan arr[7]) {
 
 	}
 	//I hope to GOD this works lmao
+	//it does! :D
+	return 1;
+}
 
-
-
+//non-member function to WRITE plans (w bands? rhyming?) yahooie?
+int writeFileE(std::fstream& fileDest, string fileName, ExcersisePlan arr[7]){
+//seting rq
+	fileDest.open(fileName, std::ios::out);
+	//testing
+	for (int i = 0; i < 7; i++) {
+		fileDest << arr[i].getPlanName() << "\n";
+		fileDest << arr[i].getGoalSteps() << "\n";
+		fileDest << arr[i].getPlanDate() << "\n";
+		fileDest << "\n";
+	}
 	return 1;
 }

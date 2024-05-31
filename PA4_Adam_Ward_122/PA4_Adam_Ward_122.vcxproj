@@ -139,7 +139,9 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="DietPlan.txt" />
+    <Text Include="DietPlanOut.txt" />
     <Text Include="ExcersisePlan.txt" />
+    <Text Include="ExcersisePlanOut.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

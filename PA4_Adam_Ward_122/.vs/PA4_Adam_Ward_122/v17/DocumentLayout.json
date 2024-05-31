@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\excersiseClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:excersiseClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\dietClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:dietClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\ExersisePlan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:ExersisePlan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\DietPlan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:DietPlan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\excersiseClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:excersiseClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\generalFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,26 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\DietPlan.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:DietPlan.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\ExcersisePlan.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:ExcersisePlan.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\DietPlan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:DietPlan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\ExersisePlan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:ExersisePlan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9A4EE83-2EE3-4350-9A40-0A5F7C9B9BCA}|PA4_Adam_Ward_122.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-27T23:37:50.126Z",
               "IsPinned": true,
@@ -64,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "generalFunc.cpp",
               "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\generalFunc.cpp",
               "RelativeDocumentMoniker": "generalFunc.cpp",
@@ -84,7 +76,7 @@
               "RelativeDocumentMoniker": "dietClass.cpp",
               "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\dietClass.cpp",
               "RelativeToolTip": "dietClass.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-27T23:37:59.017Z",
               "IsPinned": true,
@@ -92,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "excersiseClass.cpp",
               "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\excersiseClass.cpp",
               "RelativeDocumentMoniker": "excersiseClass.cpp",
               "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\excersiseClass.cpp",
               "RelativeToolTip": "excersiseClass.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAABVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-30T22:34:15.92Z",
               "IsPinned": true,
@@ -106,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "DietPlan.h",
               "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\DietPlan.h",
               "RelativeDocumentMoniker": "DietPlan.h",
               "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\DietPlan.h",
               "RelativeToolTip": "DietPlan.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAA1AAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAABcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-31T21:36:54.326Z",
               "IsPinned": true,
@@ -120,52 +112,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DietPlan.txt",
-              "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\DietPlan.txt",
-              "RelativeDocumentMoniker": "DietPlan.txt",
-              "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\DietPlan.txt",
-              "RelativeToolTip": "DietPlan.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-31T22:10:08.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExcersisePlan.txt",
-              "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\ExcersisePlan.txt",
-              "RelativeDocumentMoniker": "ExcersisePlan.txt",
-              "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\ExcersisePlan.txt",
-              "RelativeToolTip": "ExcersisePlan.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-31T22:10:10.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ExersisePlan.h",
               "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\ExersisePlan.h",
               "RelativeDocumentMoniker": "ExersisePlan.h",
               "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\ExersisePlan.h",
               "RelativeToolTip": "ExersisePlan.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABMAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-31T21:38:08.625Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Header.h",
               "DocumentMoniker": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\Header.h",
               "RelativeDocumentMoniker": "Header.h",
               "ToolTip": "C:\\Users\\jeezu\\Documents\\GitHub\\PA4_Adam_Ward_122\\PA4_Adam_Ward_122\\Header.h",
               "RelativeToolTip": "Header.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-27T23:38:07.308Z",
               "EditorCaption": ""

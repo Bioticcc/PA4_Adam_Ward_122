@@ -16,8 +16,12 @@ public:
 	//default constructor
 	DietPlan() : goalCal(0), planName("empty"), planDate("empty") {}
 
-	//friend function for overload operator
+	//friend function for overload operator >>
 	friend std::istream& operator>>(std::istream& inFile, DietPlan& plan);
+
+	/*friend function for overload operator << ? i think ? ? turns out its not needed ? ? idk im sure itll make sense later <3
+	friend std::ostream& operator<<(std::ostream& outFile, DietPlan& plan);
+	*/
 
 	//the constructor. It should set up the initial values of the class.
 	DietPlan(int x, const string& y, const string& z) {
@@ -104,7 +108,7 @@ public:
 
 int displayPlanD(DietPlan plan);
 int readFileD(std::fstream& fileDest, string fileName, DietPlan arr[7]);
-
+int writeFileD(std::fstream& fileDest, string fileName, DietPlan arr[7]);
 
 
 
