@@ -24,13 +24,6 @@ using std::cin;
 using std::string;
 
 
-//finally, 200 lines in, we get to function prototypes (i THINK we still need these in C++??? idk tho tbh)
-
-
-
-
-
-
 //GOES AT THE END DONT FUCKING MOVE ME!
 #endif 
 

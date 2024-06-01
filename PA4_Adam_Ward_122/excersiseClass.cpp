@@ -23,28 +23,10 @@ std::istream& operator>>(std::istream& inFile, ExcersisePlan& plan) {
 	return inFile;
 }
 
-//non-member function to READ plans
-int readFileE(std::fstream& fileDest, string fileName, ExcersisePlan arr[7]) {
-
-	//opening files!
-	fileDest.open(fileName, std::ios::in);
-	if (fileDest.is_open()) {
-		cout << "File " << fileName << " opened succesfully!\n";
-	}
-	//reading from files!
-	for (int i = 0; i < 7; i++) {
-		fileDest >> arr[i];
-		cout << "index[" << i << "]: " << arr[i].getPlanName() << " | " << arr[i].getGoalSteps() << " | " << arr[i].getPlanDate() << "|\n";
-
-	}
-	//I hope to GOD this works lmao
-	//it does! :D
-	return 1;
-}
-
 //non-member function to WRITE plans (w bands? rhyming?) yahooie?
 int writeFileE(std::fstream& fileDest, string fileName, ExcersisePlan arr[7]){
 //seting rq
+	//made this a bit more
 	fileDest.open(fileName, std::ios::out);
 	//testing
 	for (int i = 0; i < 7; i++) {

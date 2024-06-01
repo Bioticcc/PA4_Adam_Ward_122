@@ -129,12 +129,14 @@
   <ItemGroup>
     <ClCompile Include="dietClass.cpp" />
     <ClCompile Include="excersiseClass.cpp" />
+    <ClCompile Include="fitnessClass.cpp" />
     <ClCompile Include="generalFunc.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DietPlan.h" />
     <ClInclude Include="ExersisePlan.h" />
+    <ClInclude Include="FitnessAppWrapper.h" />
     <ClInclude Include="Header.h" />
   </ItemGroup>
   <ItemGroup>

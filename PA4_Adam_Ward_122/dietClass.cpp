@@ -24,28 +24,6 @@ std::istream& operator>>(std::istream& inFile, DietPlan& plan) {
 	return inFile;
 }
 
-
-
-//reading from diet.txt
-
-//non-member function to READ plans
-int readFileD(std::fstream& fileDest, string fileName, DietPlan arr[7]) {
-
-	//opening files!
-	fileDest.open(fileName, std::ios::in);
-	if (fileDest.is_open()) {
-		cout << "File " << fileName << " opened succesfully!\n";
-	}
-	//reading from files!
-	for (int i = 0; i < 7; i++) {
-		fileDest >> arr[i];
-		cout << "index[" << i << "]: " << arr[i].getPlanName() << " | " << arr[i].getGoalCal() << " | " << arr[i].getPlanDate() << "|\n";
-	}
-	
-	//printings arrays to make sure!
-	return 1;
-}
-
 /*
 //overlord function <<
 std::ostream& operator<<(std::ostream& outFile, DietPlan& plan) {
