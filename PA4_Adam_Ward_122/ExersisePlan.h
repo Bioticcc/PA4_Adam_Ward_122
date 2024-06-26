@@ -15,6 +15,7 @@ public:
 	ExcersisePlan() : goalSteps(0), planName("empty"), planDate("empty") {}
 
 	friend std::istream& operator>>(std::istream& inFile, ExcersisePlan& plan);
+	friend std::ostream& operator<<(std::ostream& out, ExcersisePlan& plan);
 
 	//constructor
 	ExcersisePlan(int x, const string& y, const string& z) {

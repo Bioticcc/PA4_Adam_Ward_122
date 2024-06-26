@@ -24,22 +24,23 @@ std::istream& operator>>(std::istream& inFile, DietPlan& plan) {
 	return inFile;
 }
 
-/*
+
+std::ostream& operator<<(std::ostream& out, DietPlan& plan) {
+	out << "Plan name: " << plan.getPlanName() << " | Plan date: " << plan.getPlanDate() << " | Goal Calories: " << plan.getGoalCal() << " |\n";
+	return out;
+}
+
+
+//now overload function for writing to file
+
 //overlord function <<
+/*
 std::ostream& operator<<(std::ostream& outFile, DietPlan& plan) {
+	outFile << plan.getPlanName() << "\n";
+	outFile << plan.getPlanDate() << "\n";
+	outFile << plan.getGoalCal() << "\n";
+	outFile << "\n";
 	return outFile;
 }*/
 
 
-int writeFileD(std::fstream& fileDest, string fileName, DietPlan arr[7]) {
-	//seting rq
-	fileDest.open(fileName, std::ios::out);
-	//testing
-	for (int i = 0; i < 7; i++) {
-		fileDest << arr[i].getPlanName() << "\n";
-		fileDest << arr[i].getGoalCal() << "\n";
-		fileDest << arr[i].getPlanDate() << "\n";
-		fileDest << "\n";
-	}
-	return 1;
-}

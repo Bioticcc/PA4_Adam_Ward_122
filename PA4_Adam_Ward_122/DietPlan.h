@@ -18,6 +18,10 @@ public:
 
 	//friend function for overload operator >>
 	friend std::istream& operator>>(std::istream& inFile, DietPlan& plan);
+	
+	friend std::ostream& operator<<(std::ostream& out, DietPlan& plan);
+
+	//friend std::ostream& operator<<(std::ostream& outFile, DietPlan& plan);
 
 	/*friend function for overload operator << ? i think ? ? turns out its not needed ? ? idk im sure itll make sense later <3
 	friend std::ostream& operator<<(std::ostream& outFile, DietPlan& plan);

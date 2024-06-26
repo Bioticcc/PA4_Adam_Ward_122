@@ -23,6 +23,14 @@ std::istream& operator>>(std::istream& inFile, ExcersisePlan& plan) {
 	return inFile;
 }
 
+
+//overload operator for displaying function 
+
+std::ostream& operator<<(std::ostream& out, ExcersisePlan& plan) {
+	out << "Plan name: " << plan.getPlanName() << " | Plan date: " << plan.getPlanDate() << " | Goal Calories: " << plan.getGoalSteps() << " |\n";
+	return out;
+}
+
 //non-member function to WRITE plans (w bands? rhyming?) yahooie?
 int writeFileE(std::fstream& fileDest, string fileName, ExcersisePlan arr[7]){
 //seting rq
