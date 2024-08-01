@@ -24,6 +24,5 @@ using std::cin;
 using std::string;
 
 
-//GOES AT THE END DONT FUCKING MOVE ME!
 #endif 
 
